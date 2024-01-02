@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
-<h3 align="center">Enthusias developer love to do programs</h3>
+<h3 align="center">Enthusiasm developer love to do programs</h3>
 
 - 🔭 I’m currently working on **Quick Guni**
 
