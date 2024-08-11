@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanpatel1108" alt="amanpatel1108" /></a> </p>
 
-- 🔭 I’m currently working on **Quick Guni**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
