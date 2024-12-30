@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://patelaman.netlify.app/#](https://patelaman.netlify.app/#)
 
-- 📫 How to reach me **amanpatel8844382@gmail.com**
+- 📫 How to reach me **amanpatel2482@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
