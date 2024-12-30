@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanpatel1108" alt="amanpatel1108" /></a> </p>
 
-- 🔭 I’m currently working on [Quick Guni](https://github.com/AMANPATEL1108/QuickGuni)
+- 🔭 QuickCampus  [Quick Guni](https://github.com/AMANPATEL1108/QuickGuni)
 
 - 🌱 I’m currently learning **Java,React,SpringBoot**
 
