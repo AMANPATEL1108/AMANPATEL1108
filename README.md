@@ -91,6 +91,6 @@
 </p>
 
 <p>
-    <img align="center" src="  https://github-readme-streak-stats.herokuapp.com/?user=amanpatel1108&theme=dark&hide_border=false" alt="GitHub Status" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amanpatel1108&theme=dark" alt="GitHub Status" />
  <br>
 </p>
