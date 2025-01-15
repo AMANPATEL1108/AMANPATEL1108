@@ -91,5 +91,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amanpatel1108&theme=dark" alt="GitHub Streak Stats" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=AMANPATEL1108&theme=dark&hide_border=false)<br/>
 </p>
