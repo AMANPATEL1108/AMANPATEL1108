@@ -91,5 +91,5 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatel1108" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatel1108&theme=dark" alt="GitHub Streak" />
 </p>
