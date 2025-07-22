@@ -13,8 +13,6 @@
 
 - 🔭 QuickCampus: [Quick Guni](https://github.com/AMANPATEL1108/QuickGuni)
 
-- 🌱 I’m currently learning *Java, React, Spring Boot*
-
 - 👯 AceDSA: A Comprehensive Overview [AceDsa](https://github.com/AMANPATEL1108/AceDSA)
 
 - 🤝 Hotel Management - The Complete Solution [Hotel Management](https://github.com/AMANPATEL1108/HotelManagement)
